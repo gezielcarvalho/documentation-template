@@ -23,5 +23,6 @@ external records rather than duplicating them.
 | `scope-and-roadmap.md` | Scope boundary, milestones, dependencies, and active direction |
 | `architecture.md` | Context, components, data, integrations, and technical constraints |
 | `delivery-and-quality.md` | Agile working agreement, quality checks, release approach, and Definition of Done |
+| `operations.md` | Optional operating posture, ownership, runbook, and release boundary |
 | `risks-and-decisions.md` | Assumptions, risks, mitigations, and decision log |
 | `adr/` | Short records for decisions that require lasting technical rationale |
